@@ -1,0 +1,16 @@
+# IDE和编辑器文件
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# 临时文件
+*.tmp
+*.log
+
+# 注意：不要忽略子模块目录
+# 子模块目录不应该被忽略

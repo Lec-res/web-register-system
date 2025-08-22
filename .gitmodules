@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Lec-res/web-register-system-frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Lec-res/web-register-system-backend.git
