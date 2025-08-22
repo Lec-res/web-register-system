@@ -10,4 +10,4 @@
 
 ### 克隆项目（包含子模块）
 ```bash
-git clone --recursive https://github.com/your-username/my-web-project.git
+git clone --recursive https://github.com/Lec-res/web-register-system.git
